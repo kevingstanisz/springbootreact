@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### AmazonKeys
+/**/src/main/java/com/kevcode/awsimageupload/config
