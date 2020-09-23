@@ -1,7 +1,7 @@
 # Spring Boot and React 
 
 ## Spring Boot and React JS | Full Course | 2020 (2:19:58)
-###### Amigoscode - https://www.youtube.com/watch?v=i-hoSg8iRG0&t=2799s&ab_channel=Amigoscode
+###### Amigoscode - https://youtu.be/i-hoSg8iRG0
 
 Since I have been working primarily with Jave backend (see Algorithms Part 1 + 2) and React frontend (see Blockudoku), I was interested in learning how to connect the two. 
 
